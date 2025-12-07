@@ -1,6 +1,8 @@
-{"_base":"https://raw.githubusercontent.com/malmode/samples/main",
- " tao":["/sounds/tao.wav"]
+{
+ "_base": "https://raw.githubusercontent.com/malmode/samples/main/",
+ "tao": ["/sounds/tao.wav"]
 }
+
 
 
 
