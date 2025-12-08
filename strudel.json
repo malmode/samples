@@ -1,7 +1,9 @@
 {
  "_base": "https://raw.githubusercontent.com/malmode/samples/main/",
- "tao": ["/sounds/tao/tao.wav"]
+ "tao": ["/sounds/tao/tao.wav"],
+ "nightstrings": ["/sounds/nightstrings/nightstrings.wav"]
 }
+
 
 
 
