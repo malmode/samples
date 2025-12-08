@@ -7,9 +7,10 @@
  "feast": ["/sounds/feast/feast.wav"],
  "dontbeafraid": ["/sounds/dontbeafraid/dontbeafraid.wav"],
  "helpsomebody": ["/sounds/helpsomebody/helpsomebody.wav"],
- "partiallydevoured": ["/sounds/partiallydevoured/partiallydevoured.wav"],
+ "partiallydevoured": ["/sounds/partiallydevoured/partiallydevoured.wav"]
  
 }
+
 
 
 
