@@ -1,8 +1,16 @@
 {
  "_base": "https://raw.githubusercontent.com/malmode/samples/main/",
  "tao": ["/sounds/tao/tao.wav"],
- "nightstrings": ["/sounds/nightstrings/nightstrings.wav"]
+ "nightstrings": ["/sounds/nightstrings/nightstrings.wav"],
+ "killingeating": ["/sounds/killingeating/killingeating.wav"],
+ "MassHysteria": ["/sounds/MassHysteria/MassHysteria.wav"],
+ "feast": ["/sounds/feast/feast.wav"],
+ "dontbeafraid": ["/sounds/dontbeafraid/dontbeafraid.wav"],
+ "helpsomebody": ["/sounds/helpsomebody/helpsomebody.wav"],
+ "partiallydevoured": ["/sounds/partiallydevoured/partiallydevoured.wav"],
+ 
 }
+
 
 
 
