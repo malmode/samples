@@ -7,9 +7,12 @@
  "feast": ["/sounds/feast/feast.wav"],
  "dontbeafraid": ["/sounds/dontbeafraid/dontbeafraid.wav"],
  "helpsomebody": ["/sounds/helpsomebody/helpsomebody.wav"],
- "partiallydevoured": ["/sounds/partiallydevoured/partiallydevoured.wav"]
+ "partiallydevoured": ["/sounds/partiallydevoured/partiallydevoured.wav"],
+ "ao": ["/sounds/AO/AO.wav"],
+ "choir_in_gminor": ["/sounds/choir in Gminor/choir in Gminor.mp3"],
  
 }
+
 
 
 
