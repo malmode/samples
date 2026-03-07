@@ -10,9 +10,10 @@
  "partiallydevoured": ["/sounds/partiallydevoured/partiallydevoured.wav"],
  "ao": ["/sounds/AO/AO.wav"],
  "choir": ["/sounds/choir/choir.mp3"],
- "watts_tao": ["/sounds/choir/watts_tao.wav"]
+ "watts_tao": ["/sounds/watts_tao/watts_tao.wav"]
  
 }
+
 
 
 
