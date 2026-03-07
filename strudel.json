@@ -9,9 +9,11 @@
  "helpsomebody": ["/sounds/helpsomebody/helpsomebody.wav"],
  "partiallydevoured": ["/sounds/partiallydevoured/partiallydevoured.wav"],
  "ao": ["/sounds/AO/AO.wav"],
- "choir": ["/sounds/choir/choir.mp3"]
+ "choir": ["/sounds/choir/choir.mp3"],
+ "watts_tao": ["/sounds/choir/watts_tao.wav"]
  
 }
+
 
 
 
