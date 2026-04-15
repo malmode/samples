@@ -7,6 +7,7 @@
  "feast": ["/sounds/feast/feast.wav"],
  "dontbeafraid": ["/sounds/dontbeafraid/dontbeafraid.wav"],
  "hearingme": ["/sounds/hearingme/hearingme.wav"],
+ "hello": ["/sounds/hello/hello.wav"],
  "helpsomebody": ["/sounds/helpsomebody/helpsomebody.wav"],
  "partiallydevoured": ["/sounds/partiallydevoured/partiallydevoured.wav"],
  "ao": ["/sounds/AO/AO.wav"],
