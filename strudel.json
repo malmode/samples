@@ -12,6 +12,7 @@
  "partiallydevoured": ["/sounds/partiallydevoured/partiallydevoured.wav"],
  "ao": ["/sounds/AO/AO.wav"],
  "choir": ["/sounds/choir/choir.mp3"],
+ "fusrodah": ["/sounds/FusRoDah/fus_ro_dah_button_nord_frd_sms.mp3"],
  "watts_tao": ["/sounds/watts_tao/watts_tao.wav"]
  
 }
